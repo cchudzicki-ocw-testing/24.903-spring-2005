@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the eight problem sets assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
